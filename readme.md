@@ -22,6 +22,18 @@ Tudo isso através de uma interface interativa desenvolvida com Streamlit.
 
 ---
 
+## 📈 Model Performance
+
+| Metric | Score |
+|--------|-------|
+| Accuracy (AVG)| 98% |
+| F1-score (AVG) | 98% |
+
+### Validation Method
+- 5-Fold Cross Validation
+
+---
+
 # 🧠 Como Funciona?
 
 A Inteligência Artificial aprende padrões presentes em milhares de mensagens reais.
