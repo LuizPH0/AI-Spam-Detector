@@ -27,10 +27,8 @@ Tudo isso através de uma interface interativa desenvolvida com Streamlit.
 A Inteligência Artificial aprende padrões presentes em milhares de mensagens reais.
 
 Exemplo:
-
-## 🚨 Spam
-
 ```txt
+🚨 Spam
 Congratulations! You won a FREE iPhone!
 ✅ Não Spam
 Hey, are we meeting tomorrow?
@@ -38,17 +36,12 @@ Hey, are we meeting tomorrow?
 O modelo transforma o texto em números usando TF-IDF e utiliza Logistic Regression para prever a probabilidade da mensagem ser spam.
 
 ## ⚙️ Tecnologias Utilizadas
-Python
-
-Scikit-learn
-
-Streamlit
-
-Pandas
-
-Matplotlib
-
-Joblib
+- Python
+- Scikit-learn
+- Streamlit
+- Pandas
+- Matplotlib
+- Joblib
 
 ## 📊 Dataset
 
@@ -59,19 +52,19 @@ Foi utilizado o dataset:
 
 Contendo mais de 5.000 mensagens reais classificadas como:
 
-spam
+- spam
 
-ham (mensagens normais)
+- ham (mensagens normais)
 
 ## 🧮 Modelo de Machine Learning
 
 O projeto utiliza:
 
-Logistic Regression
+- Logistic Regression
 
-Modelo de classificação muito utilizado em NLP.
+- Modelo de classificação muito utilizado em NLP.
 
-A função logística utilizada é:
+- A função logística utilizada é:
 
 P(y=1)=
 1+e
@@ -142,34 +135,13 @@ streamlit run app.py
 
 Este projeto aborda conceitos importantes de:
 
-NLP
-
-Machine Learning
-
-Classificação de Texto
-
-Engenharia de Dados
-
-Vetorização TF-IDF
-
-Treinamento de Modelos
-
-Deploy de aplicações de IA
-
----
-
-## 🔮 Melhorias Futuras
-Deploy online
-
-API com FastAPI
-
-Banco de dados
-
-Histórico de mensagens
-
-Modelos Transformers (BERT)
-
-Docker
+- NLP
+- Machine Learning
+- Classificação de Texto
+- Engenharia de Dados
+- Vetorização TF-IDF
+- Treinamento de Modelos
+- Deploy de aplicações de IA
 
 ---
 
@@ -179,9 +151,9 @@ Desenvolvido por Luiz Hatem.
 
 Projeto criado para estudos e desenvolvimento na área de:
 
-AI Engineer
-Machine Learning Engineer
-Data Science
+- AI Engineer
+- Machine Learning Engineer
+- Data Science
 
 ---
 
